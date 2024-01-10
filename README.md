@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 AI&ML Engineer
 --------------
-
+<p align="justify"> 
 👋 Hello, I'm Akhilesh, a Junior AI-ML Engineer passionate about the exciting world of artificial intelligence and machine learning.<b>
 
 🎓 I recently completed my Bachelor of Technology (B.Tech) degree in Computer Science and Engineering, where I developed a strong foundation in computer science principles, algorithms, and data structures. During my academic journey, I discovered my fascination for the field of AI and ML, which led me to pursue a career in this dynamic domain. <b>
@@ -12,7 +12,10 @@ AI&ML Engineer
 
 🚀 My journey in AI-ML is a continuous learning experience. I am enthusiastic about staying up-to-date with the latest advancements and trends in the field, attending workshops, and participating in online courses to enhance my knowledge and skills.<b>
 
-🌟 I am open to new connections, collaborations, and discussions related to AI, ML, and computer science. Let's connect and explore the possibilities of how we can make a difference through technology. 📬 Feel free to reach out to me if you share similar interests, have exciting project ideas, or simply want to connect and exchange thoughts on the ever-evolving world of AI and ML.<b>
+🌟 I am open to new connections, collaborations, and discussions related to AI, ML, and computer science. Let's connect and explore the possibilities of how we can make a difference through technology.<b>
+
+📬 Feel free to reach out to me if you share similar interests, have exciting project ideas, or simply want to connect and exchange thoughts on the ever-evolving world of AI and ML.<b>
+</p>
 
 * 🌍  I'm based in India,Delhi
 * ✉️  You can contact me at [deepakkushwaha6392@gmail.com](mailto:deepakkushwaha6392@gmail.com)
